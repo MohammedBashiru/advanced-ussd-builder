@@ -831,7 +831,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Mohammed Bashiru
 
-- GitHub: [@iammohammedb](https://github.com/iammohammedb)
+- GitHub: [@iammohammedb](https://github.com/MohammedBashiru/advanced-ussd-builder)
 
 ## 🙏 Acknowledgments
 
@@ -842,10 +842,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 Email: support@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/iammohammedb/advanced-ussd-builder/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/iammohammedb/advanced-ussd-builder/discussions)
+- 🌐 Website: [www.bashtech.solutions](https://www.bashtech.solutions)
+- 📧 Email: <info@bashtech.solutions>
+- 🐛 Issues: [GitHub Issues](https://github.com/MohammedBashiru/advanced-ussd-builder/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/MohammedBashiru/advanced-ussd-builder/discussions)
 
 ---
 
-Made with ❤️ by the Advanced USSD Builder Team
+Made with ❤️ by the BashTech Solutions Team
